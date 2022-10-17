@@ -1,27 +1,5 @@
-All of my python small project code written in one place
+I've realized that writting all my projects in one place is a bad idea. All of the futures projects will be seperated into different repos like normal. 
 
-Things to come
+Here is how this program works.
 
-
-IDEAS
-- Rock Paper Scissors
-- Address Book
-- Text Adventure Game
-
-TODO
-
-
-
-
-DOING
-- Mad Libs: [Problem] If there user were to not type in anything, then there would be no content to display to them at the end.
-- There will be two more stories added for the mad libs project of this program.
-
-
-COMPLETE
-
-
-STUCK
-
-
-
+You input a number within a certain range. The computer then generates a number and you have to guess it within the allowed tries the game gives you.
